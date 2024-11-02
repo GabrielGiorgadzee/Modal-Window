@@ -1,4 +1,5 @@
 Modal Window Project
+
 Welcome to the Modal Window Project! This web application showcases a simple yet effective implementation of a modal window using HTML, CSS, and JavaScript. The modal provides an interactive overlay that can be easily triggered and closed, enhancing the user experience by displaying additional content without navigating away from the main page.
 
 Features
